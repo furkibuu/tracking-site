@@ -1,6 +1,7 @@
 # 🎬 Tracking Site
 
-![Tracking Site Screenshot](https://your-screenshot-link.com) <!-- Proje ekran görüntüsünü buraya ekle -->
+![image](https://github.com/user-attachments/assets/18e79bf0-ac14-41ff-90eb-12d23027a004)
+
 
 A tracking site made with a simple, yet elegant design. This project is designed to help users watch movie trailers, full movies, and explore popular films, all while being easy to navigate and visually appealing. The site is open to further development and enhancements.
 

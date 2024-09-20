@@ -36,9 +36,9 @@ A tracking site made with a simple, yet elegant design. This project is designed
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/furkibuu/tracking-site.git
-   ```
+```bash
+git clone https://github.com/furkibuu/tracking-site.git
+```
 
 2. Navigate to the project directory:
 
@@ -51,7 +51,7 @@ cd tracking-site
 ## 👾 Development
 This project is open for development. If you'd like to contribute or improve the site, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-# To-Do
+### To-Do
 - Add more movies and trailers.
 - Implement user authentication.
 - Create a search feature for movies and trailers.

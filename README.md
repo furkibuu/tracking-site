@@ -40,11 +40,12 @@ A tracking site made with a simple, yet elegant design. This project is designed
    git clone https://github.com/furkibuu/tracking-site.git
    ```
 
-   2. Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd tracking-site
 ```
+
 3. Open index.html in your preferred browser to view the site.
 
 ##👾 Development

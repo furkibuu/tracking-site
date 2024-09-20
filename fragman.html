@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fragmans | Aiko Development</title>
+  <link rel="shortcut icon" href="/Image/deadpool.jpg" type="image/x-icon">
+  <link rel="stylesheet" href="/Css/main.css">
+
+</head>
+<body>
+
+  <nav class="menu">
+    <ul>
+      <li><a href="/home.html#home">Home</a></li>
+      <li><a href="/fragman.html">Watch Fragman</a></li>
+      <li><a href="/home.html#film">Films</a></li>
+      <li><a href="/home.html#popular">Populer Film</a></li>
+    </ul>
+  </nav>
+
+  <section class="player">
+    <div class="player-container">
+      <h2>Now Playing: Deadpool 2 Fragman</h2>
+      <video controls controlsList="nodownload">
+        <source src="/Video/fragman/deadpool_2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div class="movie-list">
+      <h3>Watch More</h3>
+      <ul>
+        <li>
+          <a href="javascript:void(0)" onclick="changeVideo('/Video/fragman/deadpool_1.mp4', 'Deadpool 1 Fragman')">
+            Deadpool 1 Fragman
+          </a>
+        </li>
+        <li>
+          <a href="javascript:void(0)" onclick="changeVideo('/Video/fragman/deadpool_2.mp4', 'Deadpool 2 Fragman')">
+            Deadpool 2 Fragman
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+
+  <section class="other-fragman">
+    <h3>Other Trailers</h3>
+    <div class="fragman-container">
+      <div class="fragman-item">
+        <a href="javascript:void(0)" onclick="changeVideo('/Video/fragman/deadpool_1.mp4', 'Deadpool 1 Fragman')">
+          <img src="Image/deadpool_1.jpg" alt="Deadpool 1 Fragman">
+          <p>Deadpool 1 Fragman</p>
+        </a>
+      </div>
+      <div class="fragman-item">
+        <a href="javascript:void(0)" onclick="changeVideo('/Video/fragman/deadpool_2.mp4', 'Deadpool 2 Fragman')">
+          <img src="/Image/deadpool_2.jpg" alt="Deadpool 2 Fragman">
+          <p>Deadpool 2 Fragman</p>
+        </a>
+      </div>
+      <div class="fragman-item">
+        <a href="javascript:void(0)" onclick="changeVideo('/Video/fragman/deadpool_2.mp4', 'Deadpool & Wolverine Fragman')">
+          <img src="/Image/deadpool_and_wolverine.jpg" alt="Deadpool and Wolverine Fragman">
+          <p>Deadpool & Wolverine Fragman</p>
+        </a>
+      </div>
+      <div class="fragman-item">
+        <a href="javascript:void(0)" onclick="changeVideo('/Video/fragman/wolverine.mp4', 'Wolverine Fragman')">
+          <img src="/Image/wolverine.jpg" alt="wolverine">
+          <p>Wolverine Fragman</p>
+        </a>
+      </div>
+
+
+
+    </div>
+  </section>
+  <br>
+
+  <footer>
+    <p>&copy; 2024 Aiko Development. All rights reserved.</p>
+    <img src="https://avatars.githubusercontent.com/u/74312970?v=4" alt="furkibuu"><p>Github <a href="https://github.com/furkibuu">furkibuu</a></p>
+  </footer>
+  <script src="/JavaScript/video.js"></script>
+</body>
+</html>

@@ -48,16 +48,16 @@ cd tracking-site
 
 3. Open index.html in your preferred browser to view the site.
 
-##👾 Development
+## 👾 Development
 This project is open for development. If you'd like to contribute or improve the site, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-#To-Do
+# To-Do
 - Add more movies and trailers.
 - Implement user authentication.
 - Create a search feature for movies and trailers.
 - Optimize for mobile devices.
 
-##🤝 Contributing
+## 🤝 Contributing
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 1. Fork the project.
@@ -66,7 +66,7 @@ If you'd like to contribute to this project, please fork the repository and use 
 4. Push to the branch (git push origin feature/amazing-feature).
 5. Open a Pull Request.
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/furkibuu/tracking-site/blob/main/LICENSE) file for details
 
 Made with ❤️ by Furkan (Aiko Development)
